@@ -12,14 +12,23 @@ All in one sdk windows for esp32.
 
 ## Installation
 
+
 * Clone repo
 
 ```
 git clone --recursive https://github.com/ViaMonkey/vmkSDK.git
 ```
 
-* Extract bin.zip in vmkSDK
+* Extract archives (assume sdk is installed on c:)
 
+```
+c:
+cd /vmkSDK
+.\tools\7-zip\7za.exe x .\editors\editors.zip -o.\editors
+.\tools\7-zip\7za.exe x .\msys32\msys32.zip -o.\msys32
+.\tools\7-zip\7za.exe x .\toolchains\toolchains.zip -o.\toolchains
+.\tools\7-zip\7za.exe x .\tools\tools.zip -o.\tools
+```
 
 ## Add Environment Variables (assume sdk is installed on c:).
 
