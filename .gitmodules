@@ -1,0 +1,15 @@
+[submodule "libs"]
+	path = libs
+	url = https://github.com/vmkSDK/libs.git
+[submodule "editors"]
+	path = editors
+	url = https://github.com/vmkSDK/editors.git
+[submodule "msys32"]
+	path = msys32
+	url = https://github.com/vmkSDK/msys32.git
+[submodule "toolchains"]
+	path = toolchains
+	url = https://github.com/vmkSDK/toolchains.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/vmkSDK/tools.git
