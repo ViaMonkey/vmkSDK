@@ -1,13 +1,13 @@
 vmkSDK
 ==============
 
-All in one sdk windows for esp32.
+All in one sdk windows for esp32. Easy to install all dependencies. This sdk is based on git sub modules.
 
 * toolchain xtensa-esp32-elf (20171123).
 * openocd (v0.10.0)
 * eclipse (Oxygen)
 * msys32  (20171123)
-* Library (esp-idf v3.0-rc1)
+* Library (esp-idf v3.0)
 
 
 ## Installation
